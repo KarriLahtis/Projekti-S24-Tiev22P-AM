@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oma sovellus</string>
+    <string name="button_laskin">Laskin</string>
+    <string name="button_kalenteri">Kalenteri</string>
+    <string name="button_kello">Kello</string>
+    <string name="button_muistiinpanot">Muistiinpanot</string>
+    <string name="button_ajastin">Ajastin</string>
+    <string name="button_sekuntikello">Sekuntikello</string>
+    <string name="button_clicker">Napsauta</string>
+</resources>
